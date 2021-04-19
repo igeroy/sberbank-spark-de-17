@@ -15,8 +15,8 @@
 Или достаточно просто зайти на эту страницу. Здесь будет удобная табличка со всеми ресурсами.
 
 ## Полезные ссылки
-- [Календарь лекций](https://calendar.google.com/calendar/embed?src=c_dhkmlf0kr485cd8p2q84ht5k10%40group.calendar.google.com&ctz=Europe%2FMoscow)
-> - [в формате ical](https://calendar.google.com/calendar/ical/c_dhkmlf0kr485cd8p2q84ht5k10%40group.calendar.google.com/public/basic.ics)
+- [Календарь лекций](https://calendar.google.com/calendar/embed?src=c_nvshia3alnevpfu24moprgc3j0%40group.calendar.google.com&ctz=Europe%2FMoscow)
+> - [в формате ical](https://calendar.google.com/calendar/ical/c_nvshia3alnevpfu24moprgc3j0%40group.calendar.google.com/public/basic.ics)
 - [ClassMarker](https://www.classmarker.com)
 - [Личный кабинет](https://lk-spark-de.newprolab.com/)
 - [Настройка среды Intellij IDEA для Scala-проектов](idea.md)
