@@ -26,7 +26,7 @@
 - [JupyterHub нода 2](https://spark-master-2.newprolab.com)
 - [Немного информации о настройке окружения](setupEnv.md)
 - [Подключение к Spark UI используя прокси](proxy.md)
-- [Распределение по нодам](https://github.com/newprolab/sberbank-spark-de-4/blob/main/Table_Users_Masters.md)
+- [Распределение по нодам](https://github.com/newprolab/sberbank-spark-de-5/blob/main/Table_Users_Masters.md)
 - [GitHub Егора Матешука](https://github.com/Gorini4/jupyter_scala_docker)
 - [Пример сборки fat-jar](https://github.com/MrSandmanRUS/ScalaAssemblyPluginExample)
 
