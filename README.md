@@ -22,11 +22,9 @@
 - [Настройка среды Intellij IDEA для Scala-проектов](idea.md)
 - [Настройка среды Intellij IDEA для Scala-проектов (Видео)](https://youtu.be/Tf73EZbYMKM)
 - [Подключение к мастер ноде кластера из консоли по ssh, используя приватный ключ](ssh.md)
-- [JupyterHub нода 1](https://spark-master-1.newprolab.com)
-- [JupyterHub нода 2](https://spark-master-2.newprolab.com)
+- [JupyterHub](https://spark-master-1.newprolab.com)
 - [Немного информации о настройке окружения](setupEnv.md)
 - [Подключение к Spark UI используя прокси](proxy.md)
-- [Распределение по нодам](https://github.com/newprolab/sberbank-spark-de-5/blob/main/Table_Users_Masters.md)
 - [GitHub Егора Матешука](https://github.com/Gorini4/jupyter_scala_docker)
 - [Пример сборки fat-jar](https://github.com/MrSandmanRUS/ScalaAssemblyPluginExample)
 
@@ -34,8 +32,8 @@
 ## Лабораторные
 | № | Лаба | Дедлайн | Git дедлайн |
 | --- | --- | --- | --- |
-| 0 | Подготовка: доступ к кластеру, доступ к прокси, работа с GitHub, настройка IntteliJ | - | – |
-| 1 | **Лаба 1**. Дескриптивный анализ рейтингов фильмов на Scala | - | - |
+| 0 | Подготовка: доступ к кластеру, доступ к прокси, работа с GitHub, настройка IntteliJ | 10.05.2021 23:59:59 | – |
+| 1 | **Лаба 1**. Дескриптивный анализ рейтингов фильмов на Scala | 10.05.2021 23:59:59  | 13.05.2021 23:59:59 |
 | 2 | **Лаба 2**. Релевантность сайтов | - | - |
 | 3 | **Лаба 3**. Создание витрины данных из разных источников | - | – |
 | 4 | **Лаба 4a**. Сохранение логов из Kafka в Spark по расписанию | - | – |
