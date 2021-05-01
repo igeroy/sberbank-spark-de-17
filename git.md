@@ -34,8 +34,8 @@
 
 ## Как отсылать решения (строго после дедлайна)?
 
-* на Github.com: Форкнуть newprolab/sberbank-spark-de-3.
-* Склонировать этот форк <ваш ник>/sberbank-spark-de-3 (git clone ...) к себе на лаптоп или на мастере.
+* на Github.com: Форкнуть newprolab/sberbank-spark-de-5.
+* Склонировать этот форк <ваш ник>/sberbank-spark-de-5 (git clone ...) к себе на лаптоп или на мастере.
 * Создать там свою ветку name.surname от ветки labs (git branch ...) .
 * Переключится на свою ветку (git checkout ...).
 * в директории **solutions** создать поддиректорию name.surname, в ней еще одну для лабы, например lab01, lab02 etc. Положить код проекта именно туда.
