@@ -69,7 +69,7 @@ _Витрина данных (англ. Data Mart; другие варианты
 
 ## III. Задание 
 
-Ознакомьтесь с памятками по [репозиторию](Github_Repo.md) и [PostgreSQL](PostgreSQL.md).
+Ознакомьтесь с памятками по [репозиторию](https://github.com/newprolab/sberbank-spark-de-5/blob/main/Github_Repo.md) и [PostgreSQL](https://github.com/newprolab/sberbank-spark-de-5/blob/main/PostgreSQL.md).
 
 Используя psql, создайте в вашей базе данных `name_surname` таблицу `clients`  со следующими колонками:
 
