@@ -11,15 +11,8 @@ public class HistResults {
         return histFilm;
     }
 
-    public void setHistFilm(int[] histFilm) {
-        this.histFilm = histFilm;
-    }
-
     public int[] getHistAll() {
         return histAll;
     }
 
-    public void setHistAll(int[] histAll) {
-        this.histAll = histAll;
-    }
 }
