@@ -11,13 +11,15 @@ object Lab01 {
 
     if (args.length > 0 && !StringUtils.isEmpty(args(0))) {
       val source = Source.fromFile(args(0))
-      source.getLines().map(oi => (oi.split("\\t")(1).toInt, oi.split("\\t")(2).toInt))
-        .seq.foreach(a => {
-        if (a._1 == 195)
-          histResults.getHistFilm()(a._2 - 1) += 1
-        histResults.getHistAll()(a._2 - 1) += 1
-      })
-      source.close()
+      try
+        source.getLines()
+          .map(oi => (oi.split("\\t")(1).toInt, oi.split("\\t")(2).toInt))
+          .seq.foreach(a => {
+          if (a._1 == 195)
+            histResults.getHistFilm()(a._2 - 1) += 1
+          histResults.getHistAll()(a._2 - 1) += 1
+        })
+      finally source.close()
     }
 
     print(objectMapper.writeValueAsString(histResults));
